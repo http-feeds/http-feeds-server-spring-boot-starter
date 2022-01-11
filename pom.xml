@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.httpfeeds</groupId>
   <artifactId>http-feeds-server-spring-boot-starter</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.1-SNAPSHOT</version>
 
   <name>http-feeds-server-spring-boot-starter</name>
   <description>http-feeds-server-spring-boot-starter</description>
