@@ -27,6 +27,8 @@ Have a ~/.mw2/settings.xml
 
 Releasing
 ```
+GPG_TTY=$(tty)
+export GPG_TTY
 ./mvnw release:clean release:prepare
 ./mvnw release:perform
 ```
