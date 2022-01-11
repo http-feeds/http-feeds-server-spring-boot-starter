@@ -21,7 +21,7 @@ Then add this library to your `pom.xml`:
     <dependency>
       <groupId>org.httpfeeds</groupId>
       <artifactId>http-feeds-server-spring-boot-starter</artifactId>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
     </dependency>
 ```
 
