@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.httpfeeds</groupId>
   <artifactId>http-feeds-server-spring-boot-starter</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
 
   <name>http-feeds-server-spring-boot-starter</name>
   <description>http-feeds-server-spring-boot-starter</description>
@@ -35,7 +35,7 @@
     <developerConnection>scm:git:git@github.com:http-feeds/http-feeds-server-spring-boot-starter.git
     </developerConnection>
     <url>https://github.com/http-feeds/http-feeds-server-spring-boot-starter</url>
-    <tag>http-feeds-server-spring-boot-starter-0.0.1</tag>
+    <tag>http-feeds-server-spring-boot-starter-0.0.2</tag>
   </scm>
 
   <properties>
