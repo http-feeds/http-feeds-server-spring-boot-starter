@@ -20,7 +20,7 @@ public class HttpFeedController {
     this.feedFetcher = feedFetcher;
   }
 
-  @GetMapping(produces = "application/cloudevents-batch+json")
+  @GetMapping(produces = {"application/cloudevents-batch+json", "application/json"})
   public List<CloudEvent> getFeedItems(
       @RequestParam(name = "lastEventId", required = false) String lastEventId,
       @RequestParam(name = "timeout", required = false) Long timeoutMillis) {
